@@ -1,0 +1,9 @@
+
+
+(jbuild_version 1)
+
+(executable
+ ((name Main)
+  (public_name rego)
+  (libraries (reason compiler-libs.common cmdliner fmt))))
+
