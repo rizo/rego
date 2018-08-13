@@ -2,8 +2,6 @@
 
 Reasonable Go.
 
----
-
 ## Status
 
 This project is an experimental ongoing attempt at creatating a Go backend for
