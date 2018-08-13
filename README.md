@@ -4,7 +4,7 @@ Reasonable Go.
 
 ## Status
 
-This project is an experimental ongoing attempt at creatating a Go backend for
+This project is an experimental ongoing attempt at creating a Go backend for
 Reason/OCaml. Currently a proof of concept compiler is being developed that
 operates on the OCaml's Lambda IR and produces textual Go code. This approach
 poses a number of challenges with regards to performance: all values are
