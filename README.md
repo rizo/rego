@@ -1,0 +1,2 @@
+# rego
+Reasonable Go.
